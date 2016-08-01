@@ -1,0 +1,28 @@
+title: GDG Gaborone Blog
+description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+
+url: http://gdggaboronereviews.github.io
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   github: officialgdgggaborone
+   twitter: gdggaborone
+   facebook: gdggaborone
+   email: info@gdggaborone.org
+
+google_analytics: ""
