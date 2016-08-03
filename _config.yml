@@ -11,7 +11,7 @@ description: "Google Developer Group Gaborone"
 baseurl: ""
 url: "http://gdgreviews.github.io/"
 permalink: /blog/:title
-googleAnalyticsTrackingId: "UA-53426811-1"
+googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: "http://gdgreviews.github.io"
 googleGroupMailingList : ""
 
@@ -22,7 +22,7 @@ eventStartTime : "2:30 pm"
 eventEndTime : "2:30 pm"
 
 #CodeRumble Location
-eventLocationName : "Unniversity of Botswana"
+eventLocationName : "University of Botswana"
 eventLocationAddress : "4775 Notwane Rd, Gaborone"
 eventStartDate : "5:30 pm"
 eventEndDate : "1:00 pm"
@@ -50,7 +50,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Head
 metaKeywords: "event,code,gdg,gdggaborone,devfest,google,programming,android,chrome,developers"
-twitterAccount: "@GTUG_BLR"
+twitterAccount: "@gdggaborone"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -70,10 +70,10 @@ showSessions: false
 thumbnailsFolder: /img/speakers/
 
 # Footer
-gplusFollowUsUrl: "https://plus.google.com/104550553343399000979"
-twitterFollowUsUrl: "https://twitter.com/GTUG_BLR"
-fbFollowUsUrl: "https://www.facebook.com/groups/133702039437/"
-youtubeFollowUsUrl: "https://www.youtube.com/channel/UCf8khHJqh0pEC2EIz6Ozehw"
+gplusFollowUsUrl: "https://plus.google.com/+GdgGaboroneOrg"
+twitterFollowUsUrl: "https://twitter.com/gdggaborone"
+fbFollowUsUrl: "https://www.facebook.com/gdggaborone/"
+youtubeFollowUsUrl: "https://www.youtube.com/channel/UCkhG2i8mh0nBc25GUZpdjzg"
 githubFollowUsUrl: "https://github.com/officialgdggaborone"
 
 
