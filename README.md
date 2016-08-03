@@ -1,49 +1,31 @@
-![preview Long Haul](/preview.jpg)
+# GDG Gaborone - Project Zeppelin
 
-Long Haul is a minimal jekyll theme built with COMPASS / SASS / SUSY and focuses on long form blog posts. It is meant to be used as a starting point for a jekyll blog/website.
+### About 
+This is the official Google Developer Group Gaborone Website.
 
-If you really enjoy Long Haul and want to give me credit somewhere on the internet send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaierjr).
+Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
+Checkout the [full documentation](https://github.com/gdg-x/zeppelin/wiki).
 
-####[View Demo](http://brianmaierjr.com/long-haul)
+### Who is using template?
+Going to use template? Drop in a mail at [*lviv@gdg.org.ua*](mailto:lviv@gdg.org.ua) so they can include you to this list, or make a pull request.
 
-## Features
+* [GDG DevFest Ukraine 2014](http://devfest.gdg.org.ua/)
+* [GDG DevFest Istanbul 2014](http://devfesttr.com/)
+* [GDG DevFest Omsk 2014](http://gdg-devfest-omsk.org/)
+* [GDG Bangalore Site](http://gdgbangalore.github.io/)
+* [GDG Gaborone Site](http://devfest.gdggaborone.org/)
+* [2014 南阳 GDG Devfest 大会](http://devfest.gdgny.org)
+* [DevFest Nordeste 2014](http://devfestnordeste.github.io/devfest-2014/)
+* [GDG DevFest The Netherlands](http://www.devfest.nl/)
+* [DevFest Centro-Oeste 2014](http://www.devfestcentrooeste.com.br/)
+* [DevFest SP 2014](http://sp.devfest.com.br/)
+* [Android DevFest Space Coast](http://gdg-space-coast.github.io/zeppelin/)
 
-- Minimal, Type Focused Design
-- Built with SASS + COMPASS
-- Layout with SUSY Grid
-- SVG Social Icons
-- Responsive Nav Menu
-- XML Feed for RSS Readers
-- Contact Form via Formspree
-- 5 Post Loop with excerpt on Home Page
-- Previous / Next Post Navigation
-- Estimated Reading Time for posts
-- Stylish Drop Cap on posts
-- A Better Type Scale for all devices
+### Contributors
+* Design and markup: [Oleh Zasadnyy](https://github.com/ozasadnyy)
+* Idea and Jekyll integration: [Vitaliy Zasadnyy](https://github.com/zasadnyy)
 
-## Setup
+### Licence
+Project is published under the [MIT licence](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
 
-1. [Install Jekyll](http://jekyllrb.com)
-2. Fork the [Long Haul repo](http://github.com/brianmaierjr/long-haul)
-3. Clone it
-4. Install susy `gem install susy` 
-5. Install normalize `gem install normalize-scss`
-6. Run Jekyll `jekyll serve -w`
-7. Run `compass watch`
-8. Customize!
 
-## Site Settings
-
-The main settings can be found inside the `_config.yml` file:
-
-- **title:** title of your site
-- **description:** description of your site
-- **url:** your url
-- **paginate:** the amount of posts displayed on homepage
-- **navigation:** these are the links in the main site navigation
-- **social** diverse social media usernames (optional)
-- **google_analytics** Google Analytics key (optional)
-
-## License
-
-This is [MIT](LICENSE) with no added caveats, so feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.
