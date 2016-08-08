@@ -46,7 +46,7 @@ subscribeAction: "http://google.us8.list-manage.com/subscribe?u=837da598d96df27f
 
 # Documents
 c4pUrl: "https://goo.gl/forms/cqRfEUzmEBOZgklE2"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "/assets/GDG_DevFest.pdf"
 
 # Head
 metaKeywords: "event,code,gdg,gdggaborone,devfest,google,programming,android,chrome,developers"
